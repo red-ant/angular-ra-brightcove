@@ -1,0 +1,26 @@
+{
+  "name": "angular-ra-brightcove",
+  "version": "0.0.1",
+  "homepage": "https://github.com/red-ant/angular-ra-brightcove",
+  "authors": [
+    "Dan Callaghan <dancallaghan@redant.com.au>"
+  ],
+  "description": "AngularJS directives for displaying Brightcove video content",
+  "main": "angular-ra-brightcove.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.3.4"
+  },
+  "dependencies": {
+    "angular": "~1.3.4",
+    "lodash": "~2.4.1",
+    "jquery": "~2.1.1"
+  }
+}

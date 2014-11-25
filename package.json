@@ -1,0 +1,35 @@
+{
+  "name": "angular-ra-brightcove",
+  "version": "0.0.1",
+  "description": "AngularJS directives for displaying Brightcove video content",
+  "main": "angular-ra-brightcove.js",
+  "scripts": {
+    "test": "grunt karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/red-ant/angular-ra-brightcove.git"
+  },
+  "author": "Dan Callaghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/red-ant/angular-ra-brightcove/issues"
+  },
+  "homepage": "https://github.com/red-ant/angular-ra-brightcove",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.9.0",
+    "grunt-ng-annotate": "^0.3.2",
+    "karma": "^0.12.14",
+    "karma-chrome-launcher": "^0.1.2",
+    "karma-jasmine": "^0.1.5",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
